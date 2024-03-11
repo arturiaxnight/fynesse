@@ -1,9 +1,1 @@
-*.db
-*.ipynb
-*.py[cod]
-.cache
-.ipynb_checkpoints/
-.web
-__pycache__/
-.env
-.idea
+*.db*.ipynb*.py[cod].cache.env.idea.ipynb_checkpoints/.web__pycache__/.web

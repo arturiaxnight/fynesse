@@ -231,7 +231,7 @@ def artist_card_lg(
 
 
 def pane(
-        children: rx.component,
+        children: rx.Component,
         heading_text: str,
         padding: int = 4
     ) -> rx.Component:

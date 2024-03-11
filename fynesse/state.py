@@ -5,7 +5,6 @@ import os
 
 import reflex as rx
 from spotipy import Spotify
-from sp_secrets import *
 from .data import *
 from .utilities import *
 from .constants import *
